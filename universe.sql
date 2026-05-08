@@ -82,7 +82,7 @@ ALTER SEQUENCE public.constellation_constellation_id_seq OWNED BY public.constel
 
 
 --
--- Name: galaxy; Type: TABLE; Schema: public; Owner: freecodecamp
+-- Name: galaxy; Type: TABLE; Schema: publc; Owner: freecodecamp
 --
 
 CREATE TABLE public.galaxy (
